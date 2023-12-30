@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Event-organization-system-vendor/static/css/main.1a34eb7f.css",
+    "main.js": "/Event-organization-system-vendor/static/js/main.6adeda13.js",
+    "static/js/787.b00590ab.chunk.js": "/Event-organization-system-vendor/static/js/787.b00590ab.chunk.js",
+    "index.html": "/Event-organization-system-vendor/index.html",
+    "main.1a34eb7f.css.map": "/Event-organization-system-vendor/static/css/main.1a34eb7f.css.map",
+    "main.6adeda13.js.map": "/Event-organization-system-vendor/static/js/main.6adeda13.js.map",
+    "787.b00590ab.chunk.js.map": "/Event-organization-system-vendor/static/js/787.b00590ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a34eb7f.css",
+    "static/js/main.6adeda13.js"
+  ]
+}
